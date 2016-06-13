@@ -2,7 +2,7 @@ package keyring_test
 
 import (
 	"fmt"
-	"github.com/tmc/keyring"
+	"github.com/SpiderOak/keyring"
 )
 
 func ExampleGet() {
